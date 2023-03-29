@@ -6,4 +6,5 @@ for(let i=0;i<items.length;i++){
     items[i].style.fontWeight='bold';
     items[i].style.backgroundColor="#f4f4f4";
 }
-items[2].style.color="green";
+items[1].style.color="green";
+items[2].style.display="none";
